@@ -25,8 +25,8 @@ replace (
 	github.com/cyphar/filepath-securejoin v0.2.3 => github.com/cyphar/filepath-securejoin v0.2.4
 	github.com/dgrijalva/jwt-go => github.com/dgrijalva/jwt-go/v4 v4.0.0-preview1
 	github.com/gin-gonic/gin v1.8.1 => github.com/gin-gonic/gin v1.9.1
-	github.com/jackc/pgproto3 => github.com/jackc/pgproto3/v2 v2.3.3
-	github.com/jackc/pgx => github.com/jackc/pgx/v5 v5.6.0
+	github.com/jackc/pgproto3/v2 v2.3.0 => github.com/jackc/pgproto3/v2 v2.3.3
+	github.com/jackc/pgx/v4 v4.16.1 => github.com/jackc/pgx/v5 v5.6.0
 	github.com/kubeflow/kfp-tekton/tekton-catalog/cache => ../cache/
 	github.com/kubeflow/kfp-tekton/tekton-catalog/objectstore => ../objectstore/
 	github.com/mattn/go-sqlite3 v1.14.15 => github.com/mattn/go-sqlite3 v1.14.18
