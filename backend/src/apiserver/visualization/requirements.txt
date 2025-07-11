@@ -99,7 +99,7 @@ pillow==8.4.0             # via bokeh
 prometheus-client==0.12.0  # via notebook
 prompt-toolkit==3.0.24    # via ipython
 proto-plus==1.19.8        # via google-cloud-bigquery, google-cloud-bigquery-storage, google-cloud-recommendations-ai
-protobuf==3.19.1          # via apache-beam, google-api-core, google-cloud-bigquery, googleapis-common-protos, proto-plus, tensorboard, tensorflow, tensorflow-data-validation, tensorflow-metadata, tensorflow-model-analysis, tensorflow-serving-api, tfx-bsl
+protobuf==4.25.8          # via apache-beam, google-api-core, google-cloud-bigquery, googleapis-common-protos, proto-plus, tensorboard, tensorflow, tensorflow-data-validation, tensorflow-metadata, tensorflow-model-analysis, tensorflow-serving-api, tfx-bsl
 ptyprocess==0.7.0         # via pexpect, terminado
 pyarrow==2.0.0            # via apache-beam, tensorflow-data-validation, tensorflow-model-analysis, tfx-bsl
 pyasn1-modules==0.2.8     # via google-auth, oauth2client
@@ -130,7 +130,7 @@ traitlets==4.3.3          # via ipykernel, ipython, ipywidgets, jupyter-client, 
 typing-extensions==3.7.4.3  # via apache-beam, argon2-cffi, importlib-metadata, libcst, tensorflow, typing-inspect
 typing-inspect==0.7.1     # via libcst
 uritemplate==3.0.1        # via google-api-python-client
-urllib3==1.26.7           # via requests
+urllib3==2.5.0           # via requests
 wcwidth==0.2.5            # via prompt-toolkit
 webencodings==0.5.1       # via bleach
 werkzeug==2.0.2           # via tensorboard
