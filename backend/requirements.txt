@@ -118,7 +118,7 @@ portpicker==1.5.0         # via ml-pipelines-sdk, tfx
 prometheus-client==0.12.0  # via notebook
 prompt-toolkit==3.0.24    # via ipython
 proto-plus==1.19.8        # via google-cloud-aiplatform, google-cloud-bigquery, google-cloud-bigquery-storage, google-cloud-recommendations-ai
-protobuf==3.19.1          # via apache-beam, google-api-core, google-cloud-bigquery, google-cloud-storage, googleapis-common-protos, kfp, kfp-pipeline-spec, ml-metadata, ml-pipelines-sdk, proto-plus, tensorboard, tensorflow, tensorflow-data-validation, tensorflow-hub, tensorflow-metadata, tensorflow-model-analysis, tensorflow-serving-api, tensorflow-transform, tfx, tfx-bsl
+protobuf==4.25.8          # via apache-beam, google-api-core, google-cloud-bigquery, google-cloud-storage, googleapis-common-protos, kfp, kfp-pipeline-spec, ml-metadata, ml-pipelines-sdk, proto-plus, tensorboard, tensorflow, tensorflow-data-validation, tensorflow-hub, tensorflow-metadata, tensorflow-model-analysis, tensorflow-serving-api, tensorflow-transform, tfx, tfx-bsl
 psutil==5.8.0             # via portpicker
 ptyprocess==0.7.0         # via pexpect, terminado
 pyarrow==5.0.0            # via apache-beam, tensorflow-data-validation, tensorflow-model-analysis, tensorflow-transform, tfx, tfx-bsl
@@ -166,7 +166,7 @@ typer==0.4.0              # via kfp
 typing-extensions==3.7.4.3  # via apache-beam, argon2-cffi, importlib-metadata, kfp, libcst, pydantic, tensorflow, typing-inspect
 typing-inspect==0.7.1     # via libcst
 uritemplate==3.0.1        # via google-api-python-client, kfp
-urllib3==1.26.7           # via kfp-server-api, kubernetes, requests
+urllib3==2.5.0           # via kfp-server-api, kubernetes, requests
 wcwidth==0.2.5            # via prompt-toolkit
 webencodings==0.5.1       # via bleach
 websocket-client==1.2.3   # via docker, kubernetes
