@@ -13,7 +13,7 @@ attrs==21.2.0             # via jsonschema
 avro-python3==1.9.2.1     # via apache-beam
 backcall==0.2.0           # via ipython
 bleach==4.1.0             # via nbconvert
-bokeh==1.2.0              # via -r -
+bokeh==3.8.2              # via -r -
 cached-property==1.5.2    # via h5py
 cachetools==4.2.4         # via apache-beam, google-auth
 certifi==2021.10.8        # via requests
@@ -130,7 +130,7 @@ traitlets==4.3.3          # via ipykernel, ipython, ipywidgets, jupyter-client, 
 typing-extensions==3.7.4.3  # via apache-beam, argon2-cffi, importlib-metadata, libcst, tensorflow, typing-inspect
 typing-inspect==0.7.1     # via libcst
 uritemplate==3.0.1        # via google-api-python-client
-urllib3==1.26.7           # via requests
+urllib3==2.6.3           # via requests
 wcwidth==0.2.5            # via prompt-toolkit
 webencodings==0.5.1       # via bleach
 werkzeug==2.0.2           # via tensorboard
