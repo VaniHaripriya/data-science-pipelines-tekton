@@ -123,7 +123,7 @@ psutil==5.8.0             # via portpicker
 ptyprocess==0.7.0         # via pexpect, terminado
 pyarrow==5.0.0            # via apache-beam, tensorflow-data-validation, tensorflow-model-analysis, tensorflow-transform, tfx, tfx-bsl
 pyasn1-modules==0.2.8     # via google-auth, oauth2client
-pyasn1==0.4.8             # via oauth2client, pyasn1-modules, rsa
+pyasn1==0.6.2             # via oauth2client, pyasn1-modules, rsa
 pycparser==2.21           # via cffi
 pydantic==1.8.2           # via kfp
 pydot==1.4.2              # via apache-beam, tensorflow-transform
@@ -171,7 +171,7 @@ wcwidth==0.2.5            # via prompt-toolkit
 webencodings==0.5.1       # via bleach
 websocket-client==1.2.3   # via docker, kubernetes
 werkzeug==2.0.2           # via tensorboard
-wheel==0.37.1             # via astunparse, strip-hints, tensorboard, tensorflow
+wheel==0.46.2             # via astunparse, strip-hints, tensorboard, tensorflow
 widgetsnbextension==3.5.2  # via ipywidgets
 wrapt==1.12.1             # via deprecated, tensorflow
 zipp==3.6.0               # via importlib-metadata
